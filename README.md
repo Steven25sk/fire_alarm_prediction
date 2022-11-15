@@ -8,3 +8,5 @@ This project is made to mitigate fire, by using classification machine learning 
 - SVM
 - Random Forest
 - Gradient Boosting
+
+Model URL : https://fire-prediction-steven-kusuma.herokuapp.com/
