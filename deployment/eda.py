@@ -12,7 +12,7 @@ def run():
     st.subheader('EDA untuk Analisa Dataset Smoke Detection')
 
     # Membuat Deskripsi
-    st.write('Page ini dibuat oleh *Steven Kusuma - FTDS Batch 015 - Milestone 2*')
+    st.write('Page ini dibuat oleh *Steven Kusuma*')
 
     # Membuat Garis Lurus
     st.markdown('---')
