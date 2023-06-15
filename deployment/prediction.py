@@ -7,7 +7,7 @@ import joblib
 import json
 
 # Load Model
-with open('pipe_rf.pkl', 'rb') as file_1:
+with open('deployment/pipe_rf.pkl', 'rb') as file_1:
   pipe_rf = joblib.load(file_1) 
 
 def run():
