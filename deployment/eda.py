@@ -24,7 +24,7 @@ def run():
     ''')
 
     # Show DataFrame
-    data = pd.read_csv('h8dsft_Milestone2P1_Steven_Kusuma_2.csv')
+    data = pd.read_csv('h8dsft_Milestone2P1_Steven_Kusuma.csv')
     st.dataframe(data)
 
     # Heatmap
